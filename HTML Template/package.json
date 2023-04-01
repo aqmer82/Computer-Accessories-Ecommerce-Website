@@ -1,0 +1,12 @@
+{
+  "name": "db-project-20k-1086-20k-1702-20k-0142",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch sass/style.scss style.css"
+  },
+  "author": "Aqmer Bilal Affan",
+  "license": "ISC"
+}
